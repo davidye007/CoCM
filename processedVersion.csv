@@ -1,0 +1,321 @@
+ID,Age,C-SSRS Score (past year),Num of Enc,Num of Enc Cat,PHQ-9 First,PHQ-9 Last,PHQ-9 Diff,PHQ-9 First Cat,GAD-7 First,GAD-7 Last,GAD-7 Diff,GAD-7 First Cat
+259,16,Low risk,15,High,17,19,2,Moderately Severe,14,13,-1,Moderate
+285,17,,15,High,6,7,1,Mild,11,16,5,Moderate
+226,43,Low risk,15,High,17,18,1,Moderately Severe,7,8,1,Mild
+42,44,Low risk,14,High,17,9,-8,Moderately Severe,15,,,Severe
+167,28,Moderate risk,14,High,4,6,2,None-Minimal,9,2,-7,Mild
+315,56,Low risk,14,High,10,13,3,Moderate,5,6,1,Mild
+37,42,Low risk,13,High,24,26,2,Severe,16,19,3,Severe
+192,21,No evident risk,13,High,8,0,-8,Mild,13,5,-8,Moderate
+51,46,Low risk,13,High,21,8,-13,Severe,12,2,-10,Moderate
+31,39,Moderate risk,13,High,4,6,2,None-Minimal,12,5,-7,Moderate
+100,16,,13,High,16,6,-10,Moderately Severe,5,3,-2,Mild
+35,41,Heightened risk,13,High,22,9,-13,Severe,2,,,Minimal
+76,10,,13,High,,,,NA,,,,NA
+287,28,No evident risk,12,Mid High,24,,,Severe,21,,,Severe
+218,29,,12,Mid High,12,2,-10,Moderate,18,4,-14,Severe
+228,73,Low risk,12,Mid High,16,2,-14,Moderately Severe,16,4,-12,Severe
+65,28,,12,Mid High,13,10,-3,Moderate,13,7,-6,Moderate
+258,14,Low risk,12,Mid High,11,10,-1,Moderate,13,8,-5,Moderate
+75,16,,12,Mid High,11,11,0,Moderate,12,16,4,Moderate
+159,37,Low risk,11,Mid High,21,2,-19,Severe,17,11,-6,Severe
+55,16,Low risk,11,Mid High,19,14,-5,Moderately Severe,17,16,-1,Severe
+233,35,,11,Mid High,19,16,-3,Moderately Severe,13,15,2,Moderate
+160,15,No evident risk,11,Mid High,14,15,1,Moderate,13,16,3,Moderate
+296,18,No evident risk,11,Mid High,13,8,-5,Moderate,9,6,-3,Mild
+104,15,Low risk,10,Mid High,22,12,-10,Severe,19,11,-8,Severe
+126,51,No evident risk,10,Mid High,20,12,-8,Severe,17,11,-6,Severe
+150,13,No evident risk,10,Mid High,15,5,-10,Moderately Severe,17,4,-13,Severe
+70,16,,10,Mid High,7,5,-2,Mild,17,0,-17,Severe
+99,15,No evident risk,10,Mid High,16,13,-3,Moderately Severe,16,11,-5,Severe
+282,14,Low risk,10,Mid High,8,7,-1,Mild,15,9,-6,Severe
+118,30,Low risk,10,Mid High,21,18,-3,Severe,14,12,-2,Moderate
+139,17,Low risk,10,Mid High,19,14,-5,Moderately Severe,12,11,-1,Moderate
+298,27,,10,Mid High,10,5,-5,Moderate,10,4,-6,Moderate
+297,66,No evident risk,10,Mid High,4,3,-1,None-Minimal,10,4,-6,Moderate
+310,37,No evident risk,10,Mid High,6,1,-5,Mild,9,1,-8,Mild
+89,14,No evident risk,10,Mid High,9,8,-1,Mild,8,9,1,Mild
+66,14,No evident risk,10,Mid High,21,23,2,Severe,4,14,10,Minimal
+234,56,,10,Mid High,2,4,2,None-Minimal,3,1,-2,Minimal
+262,21,,9,Mid High,20,24,4,Severe,19,21,2,Severe
+8,51,No evident risk,9,Mid High,18,10,-8,Moderately Severe,19,17,-2,Severe
+309,46,,9,Mid High,15,6,-9,Moderately Severe,18,5,-13,Severe
+146,69,No evident risk,9,Mid High,9,4,-5,Mild,18,3,-15,Severe
+109,39,No evident risk,9,Mid High,13,8,-5,Moderate,16,5,-11,Severe
+288,32,No evident risk,9,Mid High,12,2,-10,Moderate,16,4,-12,Severe
+299,18,Low risk,9,Mid High,5,4,-1,Mild,16,12,-4,Severe
+170,12,Moderate risk,9,Mid High,20,14,-6,Severe,15,13,-2,Severe
+249,28,No evident risk,9,Mid High,16,11,-5,Moderately Severe,15,17,2,Severe
+281,28,Low risk,9,Mid High,13,10,-3,Moderate,15,12,-3,Severe
+101,25,,9,Mid High,13,5,-8,Moderate,14,3,-11,Moderate
+230,20,No evident risk,9,Mid High,9,8,-1,Mild,14,14,0,Moderate
+254,60,,9,Mid High,12,11,-1,Moderate,13,11,-2,Moderate
+38,17,Heightened risk,9,Mid High,12,7,-5,Moderate,12,10,-2,Moderate
+24,62,,9,Mid High,11,6,-5,Moderate,12,7,-5,Moderate
+26,20,,9,Mid High,6,6,0,Mild,12,9,-3,Moderate
+79,33,Moderate risk,9,Mid High,10,6,-4,Moderate,11,4,-7,Moderate
+143,16,,9,Mid High,10,17,7,Moderate,9,11,2,Mild
+128,23,Low risk,9,Mid High,12,9,-3,Moderate,8,3,-5,Mild
+108,39,No evident risk,9,Mid High,8,9,1,Mild,7,6,-1,Mild
+209,57,Low risk,8,Mid Low,24,17,-7,Severe,21,21,0,Severe
+43,35,Moderate risk,8,Mid Low,23,23,0,Severe,21,20,-1,Severe
+190,14,No evident risk,8,Mid Low,23,9,-14,Severe,21,9,-12,Severe
+201,34,Low risk,8,Mid Low,23,24,1,Severe,21,21,0,Severe
+7,12,Low risk,8,Mid Low,10,9,-1,Moderate,18,12,-6,Severe
+29,17,No evident risk,8,Mid Low,15,9,-6,Moderately Severe,17,12,-5,Severe
+83,41,No evident risk,8,Mid Low,12,2,-10,Moderate,14,4,-10,Moderate
+187,17,,8,Mid Low,11,7,-4,Moderate,11,7,-4,Moderate
+57,64,No evident risk,8,Mid Low,18,14,-4,Moderately Severe,10,6,-4,Moderate
+81,71,No evident risk,8,Mid Low,12,10,-2,Moderate,10,9,-1,Moderate
+93,14,,8,Mid Low,10,10,0,Moderate,10,9,-1,Moderate
+237,22,,8,Mid Low,9,5,-4,Mild,9,7,-2,Mild
+250,47,No evident risk,8,Mid Low,2,0,-2,None-Minimal,8,1,-7,Mild
+264,26,No evident risk,8,Mid Low,8,1,-7,Mild,7,1,-6,Mild
+212,28,No evident risk,8,Mid Low,6,3,-3,Mild,6,4,-2,Mild
+25,31,Low risk,7,Mid Low,24,22,-2,Severe,21,21,0,Severe
+32,59,,7,Mid Low,15,9,-6,Moderately Severe,18,17,-1,Severe
+291,30,,7,Mid Low,8,7,-1,Mild,17,7,-10,Severe
+127,69,Low risk,7,Mid Low,7,3,-4,Mild,17,8,-9,Severe
+138,13,Low risk,7,Mid Low,16,4,-12,Moderately Severe,15,5,-10,Severe
+162,38,Low risk,7,Mid Low,14,15,1,Moderate,14,12,-2,Moderate
+96,11,,7,Mid Low,6,4,-2,Mild,13,7,-6,Moderate
+59,13,,7,Mid Low,15,,,Moderately Severe,11,13,2,Moderate
+260,11,Low risk,7,Mid Low,10,,,Moderate,11,,,Moderate
+45,18,Low risk,7,Mid Low,13,6,-7,Moderate,10,4,-6,Moderate
+151,74,,7,Mid Low,8,1,-7,Mild,9,3,-6,Mild
+274,17,Low risk,7,Mid Low,14,11,-3,Moderate,8,5,-3,Mild
+224,16,,7,Mid Low,1,4,3,None-Minimal,8,9,1,Mild
+199,38,Moderate risk,7,Mid Low,10,0,-10,Moderate,7,0,-7,Mild
+60,12,,7,Mid Low,5,10,5,Mild,4,8,4,Minimal
+6,26,Low risk,6,Mid Low,21,22,1,Severe,21,21,0,Severe
+147,62,Low risk,6,Mid Low,24,22,-2,Severe,18,13,-5,Severe
+178,37,Low risk,6,Mid Low,16,8,-8,Moderately Severe,18,10,-8,Severe
+322,21,Low risk,6,Mid Low,26,12,-14,Severe,17,11,-6,Severe
+144,16,Low risk,6,Mid Low,23,15,-8,Severe,16,9,-7,Severe
+284,41,Moderate risk,6,Mid Low,14,10,-4,Moderate,16,13,-3,Severe
+111,11,No evident risk,6,Mid Low,11,9,-2,Moderate,16,9,-7,Severe
+271,12,,6,Mid Low,13,7,-6,Moderate,14,4,-10,Moderate
+307,15,Heightened risk,6,Mid Low,9,12,3,Mild,14,12,-2,Moderate
+314,15,No evident risk,6,Mid Low,16,11,-5,Moderately Severe,13,9,-4,Moderate
+265,36,,6,Mid Low,10,7,-3,Moderate,13,8,-5,Moderate
+92,38,No evident risk,6,Mid Low,7,6,-1,Mild,13,9,-4,Moderate
+19,13,,6,Mid Low,5,4,-1,Mild,12,10,-2,Moderate
+203,17,Low risk,6,Mid Low,19,11,-8,Moderately Severe,11,3,-8,Moderate
+278,14,,6,Mid Low,7,1,-6,Mild,11,4,-7,Moderate
+133,53,No evident risk,6,Mid Low,13,10,-3,Moderate,10,9,-1,Moderate
+243,85,Low risk,6,Mid Low,11,2,-9,Moderate,10,2,-8,Moderate
+11,16,Low risk,6,Mid Low,15,3,-12,Moderately Severe,9,3,-6,Mild
+169,29,,6,Mid Low,15,14,-1,Moderately Severe,8,15,7,Mild
+67,12,No evident risk,6,Mid Low,5,2,-3,Mild,8,2,-6,Mild
+205,41,No evident risk,6,Mid Low,4,3,-1,None-Minimal,2,3,1,Minimal
+294,58,Low risk,5,Mid Low,21,20,-1,Severe,21,18,-3,Severe
+39,33,No evident risk,5,Mid Low,10,9,-1,Moderate,21,17,-4,Severe
+283,29,Low risk,5,Mid Low,26,26,0,Severe,20,20,0,Severe
+300,73,Low risk,5,Mid Low,24,7,-17,Severe,19,5,-14,Severe
+163,14,Moderate risk,5,Mid Low,18,20,2,Moderately Severe,18,15,-3,Severe
+246,53,Low risk,5,Mid Low,15,12,-3,Moderately Severe,18,14,-4,Severe
+78,15,Low risk,5,Mid Low,11,20,9,Moderate,18,13,-5,Severe
+137,28,Low risk,5,Mid Low,15,11,-4,Moderately Severe,14,11,-3,Moderate
+46,13,Low risk,5,Mid Low,20,15,-5,Severe,13,7,-6,Moderate
+202,18,Low risk,5,Mid Low,15,11,-4,Moderately Severe,12,8,-4,Moderate
+77,13,,5,Mid Low,14,12,-2,Moderate,12,11,-1,Moderate
+219,38,,5,Mid Low,9,11,2,Mild,12,12,0,Moderate
+71,11,No evident risk,5,Mid Low,15,4,-11,Moderately Severe,11,1,-10,Moderate
+53,16,No evident risk,5,Mid Low,18,12,-6,Moderately Severe,10,15,5,Moderate
+161,26,No evident risk,5,Mid Low,7,3,-4,Mild,10,9,-1,Moderate
+213,12,,5,Mid Low,16,12,-4,Moderately Severe,9,8,-1,Mild
+304,15,No evident risk,5,Mid Low,11,8,-3,Moderate,9,7,-2,Mild
+241,11,Low risk,5,Mid Low,12,10,-2,Moderate,6,7,1,Mild
+157,14,,5,Mid Low,6,5,-1,Mild,4,8,4,Minimal
+181,15,No evident risk,5,Mid Low,,,,NA,,,,NA
+153,34,Low risk,4,Low,25,23,-2,Severe,21,18,-3,Severe
+195,23,Low risk,4,Low,24,19,-5,Severe,20,19,-1,Severe
+231,17,Heightened risk,4,Low,19,6,-13,Moderately Severe,20,5,-15,Severe
+276,42,Moderate risk,4,Low,19,7,-12,Moderately Severe,20,4,-16,Severe
+86,24,Moderate risk,4,Low,22,7,-15,Severe,19,16,-3,Severe
+182,64,Low risk,4,Low,19,11,-8,Moderately Severe,18,11,-7,Severe
+184,42,No evident risk,4,Low,17,5,-12,Moderately Severe,18,4,-14,Severe
+295,13,Low risk,4,Low,16,24,8,Moderately Severe,18,21,3,Severe
+173,45,No evident risk,4,Low,12,2,-10,Moderate,18,3,-15,Severe
+256,54,Low risk,4,Low,23,15,-8,Severe,17,12,-5,Severe
+102,39,No evident risk,4,Low,22,,,Severe,17,,,Severe
+235,15,Heightened risk,4,Low,22,27,5,Severe,15,21,6,Severe
+305,14,Heightened risk,4,Low,17,9,-8,Moderately Severe,15,3,-12,Severe
+279,11,Low risk,4,Low,8,7,-1,Mild,15,4,-11,Severe
+251,12,Low risk,4,Low,13,,,Moderate,14,,,Moderate
+289,42,No evident risk,4,Low,18,10,-8,Moderately Severe,13,8,-5,Moderate
+119,57,No evident risk,4,Low,19,17,-2,Moderately Severe,12,15,3,Moderate
+240,41,No evident risk,4,Low,10,12,2,Moderate,12,16,4,Moderate
+200,57,Low risk,4,Low,25,21,-4,Severe,10,8,-2,Moderate
+91,62,Low risk,4,Low,16,5,-11,Moderately Severe,10,3,-7,Moderate
+286,35,Low risk,4,Low,10,6,-4,Moderate,10,6,-4,Moderate
+2,28,No evident risk,4,Low,9,6,-3,Mild,10,8,-2,Moderate
+114,57,,4,Low,14,24,10,Moderate,9,21,12,Mild
+9,16,Low risk,4,Low,12,3,-9,Moderate,8,6,-2,Mild
+221,15,Moderate risk,4,Low,12,10,-2,Moderate,8,4,-4,Mild
+129,40,Moderate risk,4,Low,15,15,0,Moderately Severe,7,4,-3,Mild
+245,44,Low risk,4,Low,12,,,Moderate,6,,,Mild
+180,40,,4,Low,7,2,-5,Mild,6,6,0,Mild
+68,16,,4,Low,1,1,0,None-Minimal,6,5,-1,Mild
+214,14,No evident risk,4,Low,10,2,-8,Moderate,4,3,-1,Minimal
+183,31,,4,Low,2,5,3,None-Minimal,4,4,0,Minimal
+30,10,No evident risk,4,Low,,,,NA,,,,NA
+113,10,No evident risk,4,Low,,,,NA,,,,NA
+134,12,No evident risk,4,Low,,,,NA,,,,NA
+171,10,,4,Low,,,,NA,,,,NA
+90,56,Low risk,3,Low,27,21,-6,Severe,21,21,0,Severe
+269,27,No evident risk,3,Low,22,,,Severe,21,,,Severe
+277,23,Low risk,3,Low,20,,,Severe,21,,,Severe
+20,24,Low risk,3,Low,20,19,-1,Severe,18,17,-1,Severe
+80,18,No evident risk,3,Low,18,,,Moderately Severe,17,,,Severe
+270,26,No evident risk,3,Low,17,,,Moderately Severe,17,,,Severe
+63,16,,3,Low,16,11,-5,Moderately Severe,17,15,-2,Severe
+216,16,,3,Low,22,,,Severe,16,,,Severe
+131,27,Moderate risk,3,Low,19,,,Moderately Severe,16,,,Severe
+82,15,Low risk,3,Low,18,10,-8,Moderately Severe,15,14,-1,Severe
+97,23,Moderate risk,3,Low,16,11,-5,Moderately Severe,15,7,-8,Severe
+34,21,Low risk,3,Low,14,1,-13,Moderate,15,1,-14,Severe
+290,18,,3,Low,13,3,-10,Moderate,15,4,-11,Severe
+21,45,No evident risk,3,Low,9,4,-5,Mild,15,9,-6,Severe
+1,14,No evident risk,3,Low,4,3,-1,None-Minimal,15,11,-1,Severe
+58,32,Low risk,3,Low,13,,,Moderate,14,,,Moderate
+293,32,No evident risk,3,Low,8,16,8,Mild,14,13,-1,Moderate
+98,36,Low risk,3,Low,18,12,-6,Moderately Severe,13,12,-1,Moderate
+242,23,Low risk,3,Low,16,12,-4,Moderately Severe,12,9,-3,Moderate
+136,34,Moderate risk,3,Low,10,11,1,Moderate,12,13,1,Moderate
+208,13,No evident risk,3,Low,9,7,-2,Mild,11,4,-7,Moderate
+142,24,Low risk,3,Low,15,9,-6,Moderately Severe,10,7,-3,Moderate
+175,31,No evident risk,3,Low,11,,,Moderate,10,,,Moderate
+140,23,No evident risk,3,Low,5,1,-4,Mild,10,1,-9,Moderate
+320,36,Low risk,3,Low,20,9,-11,Severe,9,2,-7,Mild
+110,43,No evident risk,3,Low,3,3,0,None-Minimal,9,7,-2,Mild
+311,24,Moderate risk,3,Low,12,6,-6,Moderate,8,5,-3,Mild
+40,36,No evident risk,3,Low,11,7,-4,Moderate,8,9,1,Mild
+149,30,,3,Low,9,6,-3,Mild,8,12,4,Mild
+272,12,Low risk,3,Low,8,8,0,Mild,7,6,-1,Mild
+69,39,No evident risk,3,Low,4,12,8,None-Minimal,7,5,-2,Mild
+176,64,No evident risk,3,Low,12,8,-4,Moderate,6,2,-4,Mild
+188,47,No evident risk,3,Low,8,,,Mild,6,,,Mild
+116,17,No evident risk,3,Low,12,7,-5,Moderate,5,4,-1,Mild
+95,17,No evident risk,3,Low,5,8,3,Mild,5,2,-3,Mild
+121,12,No evident risk,3,Low,4,7,3,None-Minimal,5,9,4,Mild
+41,49,Moderate risk,3,Low,11,7,-4,Moderate,4,3,-1,Minimal
+5,13,Heightened risk,3,Low,8,,,Mild,4,,,Minimal
+156,84,,3,Low,2,2,0,None-Minimal,4,2,-2,Minimal
+62,31,No evident risk,3,Low,1,3,2,None-Minimal,4,4,0,Minimal
+194,37,,3,Low,11,9,-2,Moderate,2,3,1,Minimal
+197,14,No evident risk,3,Low,8,2,-6,Mild,2,0,-2,Minimal
+303,43,No evident risk,3,Low,18,9,-9,Moderately Severe,0,0,0,Minimal
+49,13,No evident risk,3,Low,2,,,None-Minimal,0,,,Minimal
+48,10,No evident risk,3,Low,,,,NA,,,,NA
+64,35,Low risk,3,Low,,,,NA,,,,NA
+222,9,,3,Low,,,,NA,,,,NA
+229,11,,3,Low,,,,NA,,,,NA
+123,31,Low risk,2,Low,25,,,Severe,21,,,Severe
+22,56,Low risk,2,Low,23,24,1,Severe,20,21,1,Severe
+239,30,No evident risk,2,Low,22,,,Severe,20,,,Severe
+193,18,No evident risk,2,Low,22,13,-9,Severe,19,10,-9,Severe
+141,13,No evident risk,2,Low,20,23,3,Severe,18,17,-1,Severe
+179,23,Low risk,2,Low,25,,,Severe,17,,,Severe
+186,14,Heightened risk,2,Low,21,19,-2,Severe,17,14,-3,Severe
+148,16,Heightened risk,2,Low,14,16,2,Moderate,17,19,2,Severe
+185,13,No evident risk,2,Low,10,14,4,Moderate,17,13,-4,Severe
+177,16,Moderate risk,2,Low,20,15,-5,Severe,16,17,1,Severe
+227,34,,2,Low,19,11,-8,Moderately Severe,16,,,Severe
+14,51,,2,Low,12,11,-1,Moderate,16,5,-11,Severe
+319,55,,2,Low,11,12,1,Moderate,16,16,0,Severe
+166,29,Low risk,2,Low,15,14,-1,Moderately Severe,15,11,-4,Severe
+267,37,Moderate risk,2,Low,13,,,Moderate,15,,,Severe
+135,14,,2,Low,5,,,Mild,15,,,Severe
+308,35,No evident risk,2,Low,,,,NA,15,,,Severe
+145,15,Low risk,2,Low,19,,,Moderately Severe,14,,,Moderate
+155,17,Low risk,2,Low,18,,,Moderately Severe,14,,,Moderate
+15,31,No evident risk,2,Low,15,,,Moderately Severe,14,,,Moderate
+13,30,Low risk,2,Low,11,9,-2,Moderate,14,12,-2,Moderate
+225,26,No evident risk,2,Low,14,,,Moderate,13,,,Moderate
+12,18,No evident risk,2,Low,10,,,Moderate,13,,,Moderate
+198,15,,2,Low,7,,,Mild,13,,,Moderate
+196,40,Moderate risk,2,Low,,,,NA,13,,,Moderate
+17,34,No evident risk,2,Low,3,,,None-Minimal,12,,,Moderate
+191,22,Heightened risk,2,Low,20,12,-8,Severe,11,6,-5,Moderate
+85,34,No evident risk,2,Low,18,16,-2,Moderately Severe,11,7,-4,Moderate
+206,75,No evident risk,2,Low,14,10,-4,Moderate,11,8,-3,Moderate
+257,53,No evident risk,2,Low,14,6,-8,Moderate,11,9,-2,Moderate
+306,42,,2,Low,11,,,Moderate,10,,,Moderate
+301,50,No evident risk,2,Low,8,9,1,Mild,10,7,-3,Moderate
+54,10,,2,Low,7,,,Mild,10,,,Moderate
+106,16,Low risk,2,Low,17,,,Moderately Severe,9,,,Mild
+56,12,Low risk,2,Low,7,,,Mild,9,,,Mild
+27,18,,2,Low,14,,,Moderate,7,,,Mild
+172,41,Heightened risk,2,Low,11,11,0,Moderate,6,11,5,Mild
+244,39,No evident risk,2,Low,19,4,-15,Moderately Severe,3,,,Minimal
+223,12,No evident risk,2,Low,1,1,0,None-Minimal,2,1,-1,Minimal
+189,18,Low risk,2,Low,18,,,Moderately Severe,,,,NA
+18,15,,2,Low,,,,NA,,,,NA
+72,10,No evident risk,2,Low,,,,NA,,,,NA
+152,10,,2,Low,,,,NA,,,,NA
+207,10,Low risk,2,Low,,,,NA,,,,NA
+217,11,Low risk,2,Low,,,,NA,,,,NA
+280,12,No evident risk,2,Low,,,,NA,,,,NA
+318,10,No evident risk,2,Low,,,,NA,,,,NA
+105,45,No evident risk,1,Low,21,,,Severe,20,,,Severe
+321,14,Moderate risk,1,Low,21,,,Severe,20,,,Severe
+252,29,Low risk,1,Low,23,,,Severe,19,,,Severe
+154,16,,1,Low,18,,,Moderately Severe,19,,,Severe
+292,22,No evident risk,1,Low,18,,,Moderately Severe,19,,,Severe
+247,15,,1,Low,15,,,Moderately Severe,19,,,Severe
+158,37,Moderate risk,1,Low,13,,,Moderate,19,,,Severe
+316,23,Low risk,1,Low,23,,,Severe,18,,,Severe
+16,44,No evident risk,1,Low,18,,,Moderately Severe,18,,,Severe
+112,50,Low risk,1,Low,19,,,Moderately Severe,17,,,Severe
+120,16,Low risk,1,Low,19,,,Moderately Severe,17,,,Severe
+204,17,No evident risk,1,Low,17,,,Moderately Severe,17,,,Severe
+210,48,No evident risk,1,Low,17,,,Moderately Severe,17,,,Severe
+4,13,Moderate risk,1,Low,21,,,Severe,16,,,Severe
+238,17,No evident risk,1,Low,19,,,Moderately Severe,16,,,Severe
+44,26,No evident risk,1,Low,13,,,Moderate,16,,,Severe
+174,27,No evident risk,1,Low,6,,,Mild,16,,,Severe
+275,14,Moderate risk,1,Low,17,,,Moderately Severe,15,,,Severe
+253,60,Low risk,1,Low,21,,,Severe,14,,,Moderate
+94,16,Heightened risk,1,Low,20,,,Severe,14,,,Moderate
+117,34,Low risk,1,Low,20,,,Severe,14,,,Moderate
+220,16,Low risk,1,Low,7,,,Mild,14,,,Moderate
+36,45,Low risk,1,Low,23,,,Severe,13,,,Moderate
+74,29,Heightened risk,1,Low,18,,,Moderately Severe,13,,,Moderate
+33,54,No evident risk,1,Low,15,,,Moderately Severe,13,,,Moderate
+87,31,Low risk,1,Low,15,,,Moderately Severe,13,,,Moderate
+84,13,Heightened risk,1,Low,3,,,None-Minimal,13,,,Moderate
+47,14,Low risk,1,Low,17,,,Moderately Severe,12,,,Moderate
+61,60,Low risk,1,Low,17,,,Moderately Severe,12,,,Moderate
+211,31,Moderate risk,1,Low,18,,,Moderately Severe,11,,,Moderate
+124,24,,1,Low,10,,,Moderate,11,,,Moderate
+266,38,Low risk,1,Low,9,,,Mild,11,,,Moderate
+23,12,,1,Low,10,,,Moderate,10,,,Moderate
+73,32,No evident risk,1,Low,8,,,Mild,10,,,Moderate
+122,45,No evident risk,1,Low,18,,,Moderately Severe,9,,,Mild
+50,12,,1,Low,12,,,Moderate,9,,,Mild
+10,35,Low risk,1,Low,8,,,Mild,9,,,Mild
+132,15,No evident risk,1,Low,7,,,Mild,9,,,Mild
+215,33,Moderate risk,1,Low,12,,,Moderate,8,,,Mild
+248,54,No evident risk,1,Low,10,,,Moderate,8,,,Mild
+312,15,Low risk,1,Low,9,,,Mild,8,,,Mild
+165,25,Low risk,1,Low,13,,,Moderate,6,,,Mild
+236,13,No evident risk,1,Low,7,,,Mild,5,,,Mild
+115,17,No evident risk,1,Low,6,,,Mild,5,,,Mild
+261,31,No evident risk,1,Low,5,,,Mild,5,,,Mild
+263,38,No evident risk,1,Low,5,,,Mild,5,,,Mild
+232,13,,1,Low,5,,,Mild,4,,,Minimal
+313,56,No evident risk,1,Low,4,,,None-Minimal,4,,,Minimal
+28,14,Low risk,1,Low,9,,,Mild,3,,,Minimal
+323,54,No evident risk,1,Low,3,,,None-Minimal,3,,,Minimal
+317,38,No evident risk,1,Low,5,,,Mild,2,,,Minimal
+130,35,No evident risk,1,Low,0,,,None-Minimal,2,,,Minimal
+107,14,Low risk,1,Low,2,,,None-Minimal,0,,,Minimal
+103,13,No evident risk,1,Low,1,,,None-Minimal,0,,,Minimal
+3,12,Heightened risk,1,Low,,,,NA,,,,NA
+88,12,No evident risk,1,Low,,,,NA,,,,NA
+164,10,No evident risk,1,Low,,,,NA,,,,NA
+255,12,No evident risk,1,Low,,,,NA,,,,NA
+273,19,Moderate risk,1,Low,,,,NA,,,,NA
+302,11,No evident risk,1,Low,,,,NA,,,,NA
+,,,,,,,,,,,,
